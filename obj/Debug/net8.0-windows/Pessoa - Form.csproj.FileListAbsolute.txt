@@ -1,0 +1,14 @@
+C:\Users\Joaquim Caetano Lima\OneDrive\Documentos\C#\Pessoa - Form\obj\Debug\net8.0-windows\Pessoa - Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquim Caetano Lima\OneDrive\Documentos\C#\Pessoa - Form\obj\Debug\net8.0-windows\Pessoa - Form.AssemblyInfoInputs.cache
+C:\Users\Joaquim Caetano Lima\OneDrive\Documentos\C#\Pessoa - Form\obj\Debug\net8.0-windows\Pessoa - Form.AssemblyInfo.cs
+C:\Users\Joaquim Caetano Lima\OneDrive\Documentos\C#\Pessoa - Form\obj\Debug\net8.0-windows\Pessoa - Form.csproj.CoreCompileInputs.cache
+C:\Users\Joaquim Caetano Lima\OneDrive\Documentos\C#\Pessoa - Form\bin\Debug\net8.0-windows\Pessoa - Form.exe
+C:\Users\Joaquim Caetano Lima\OneDrive\Documentos\C#\Pessoa - Form\bin\Debug\net8.0-windows\Pessoa - Form.deps.json
+C:\Users\Joaquim Caetano Lima\OneDrive\Documentos\C#\Pessoa - Form\bin\Debug\net8.0-windows\Pessoa - Form.runtimeconfig.json
+C:\Users\Joaquim Caetano Lima\OneDrive\Documentos\C#\Pessoa - Form\bin\Debug\net8.0-windows\Pessoa - Form.dll
+C:\Users\Joaquim Caetano Lima\OneDrive\Documentos\C#\Pessoa - Form\bin\Debug\net8.0-windows\Pessoa - Form.pdb
+C:\Users\Joaquim Caetano Lima\OneDrive\Documentos\C#\Pessoa - Form\obj\Debug\net8.0-windows\Pessoa - Form.dll
+C:\Users\Joaquim Caetano Lima\OneDrive\Documentos\C#\Pessoa - Form\obj\Debug\net8.0-windows\refint\Pessoa - Form.dll
+C:\Users\Joaquim Caetano Lima\OneDrive\Documentos\C#\Pessoa - Form\obj\Debug\net8.0-windows\Pessoa - Form.pdb
+C:\Users\Joaquim Caetano Lima\OneDrive\Documentos\C#\Pessoa - Form\obj\Debug\net8.0-windows\Pessoa - Form.genruntimeconfig.cache
+C:\Users\Joaquim Caetano Lima\OneDrive\Documentos\C#\Pessoa - Form\obj\Debug\net8.0-windows\ref\Pessoa - Form.dll
